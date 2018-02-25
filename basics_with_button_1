@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>GoogleScholarship</title>
+</head>
+
+<body>
+    <h1>FrontEnd Scholarship</h1>
+    <h2>
+        <strong>This text is bold</strong>
+    </h2>
+    <em>This text is emphasized</em>
+    <span>
+        <button>This is a button</button>
+    </span>
+</body>
+
+</html>
